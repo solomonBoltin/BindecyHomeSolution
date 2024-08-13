@@ -25,6 +25,7 @@ To solve this assignment, I followed a structured approach to tackle the challen
 6. **Testing and Refinement**:
     - After getting the code to run, it still didn't produce the correct results. I decided to come up with my own solution on paper.
     - I realized that the direction suggested by ChatGPT was more efficient, so I refined it and wrote tests to ensure it worked correctly.
+    ![Description of the image](mySolution.jpg)
     - I initially tried to use best practice testing within Docker, but it took too much time. Instead, I wrote a class with functions that tested everything.
 
 7. **Final Steps**:
