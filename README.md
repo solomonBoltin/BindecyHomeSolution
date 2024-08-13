@@ -1,4 +1,14 @@
-# Assignment Challenge Report
+## Running the Solution
+
+To run the solution, use the following command:
+
+```sh
+docker build -t myconsoleapp . && docker run --rm myconsoleapp
+```
+
+
+
+## Assignment Challenge Report
 
 To solve this assignment, I followed a structured approach to tackle the challenges effectively. Here’s a step-by-step explanation of the process:
 
@@ -31,13 +41,8 @@ To solve this assignment, I followed a structured approach to tackle the challen
     - I uploaded the final solution to GitHub.
     - I wrote this README and passed it to ChatGPT for final editing. (yes that why i sound like a robot)
 
-Overall, it was a nice challenge and it took me about 6-8h. Thanks!
 
 <img src="mySolution.jpg" alt="Other solution" width="200" />
 
-## Running the Solution
+Overall, it was a nice challenge and it took me about 6-8h. Thanks!
 
-To run the solution, use the following command:
-
-```sh
-docker build -t myconsoleapp . && docker run --rm myconsoleapp
